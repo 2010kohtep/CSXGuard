@@ -1,0 +1,13 @@
+Debug/
+Release/
+__history/
+__recovery/
+Win32/
+*.res
+*.dproj.local
+*.dres
+*.rc
+*.stat
+*.identcache
+*.txt
+~$*
